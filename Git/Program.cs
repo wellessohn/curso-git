@@ -9,7 +9,7 @@ namespace Git
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia");
             Console.WriteLine("aeae");
-            Console.WriteLine("como vc esta hoj");
+            Console.WriteLine("cminha mae ta doente");
         }
     }
 }
